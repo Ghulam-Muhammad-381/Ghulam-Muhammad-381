@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="IT Consultant Business Linkedin Banner (7).png" alt="Code With Ghulam Banner" width="100%">
+  <img src="codewithghulam-banner.png" alt="Code With Ghulam Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Ghulam Muhammad</h1>
