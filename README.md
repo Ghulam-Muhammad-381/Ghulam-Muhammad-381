@@ -8,12 +8,28 @@
 
 ---
 
-### **🌟 About Me**
-🔹 6+ years of experience in **Full-Stack Web Development & Project Management**  
-🔹 Passionate about **clean code**, **scalable solutions**, and **efficient workflows**  
-🔹 Expertise in **PHP, Laravel, Vue.js, Flutter, WordPress, and Livewire**  
-🔹 Experienced in **Agile methodologies**, using **Jira, Asana, Trello** for project management  
-🔹 Love **building from scratch**, managing teams, and enhancing existing projects  
+## 🚀 About Me  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ghulam-Muhammad-381/YOUR_REPO/main/assets/profile.png" alt="Ghulam Muhammad" width="300px"/>
+</p>
+
+- 🔥 **Full-Stack Developer & Web App Architect** with 6+ years of experience  
+- 💡 Passionate about **clean code, scalable solutions, and efficient workflows**  
+- 🛠 Expert in **PHP, Laravel, Vue.js, Flutter, WordPress, Livewire**  
+- 🎯 Skilled in **Agile methodologies** using **Jira, Asana, Trello**  
+- 🚀 Always excited about **building from scratch, managing teams, and enhancing existing projects**  
+
+---
+
+## 🌎 **Connect with Me**  
+📌 **Portfolio:** [codewithghulam.com](https://codewithghulam.com)  
+📷 **Instagram:** [@ghulam_boss](https://www.instagram.com/ghulam_boss/)  
+📘 **Facebook:** [Ghulam Muhammad](https://www.facebook.com/ghulam.muhammad.39589)  
+
+---
+⭐ **"Code Beyond Limits, Crafted by Ghulam"** 🚀
+
 
 ---
 
