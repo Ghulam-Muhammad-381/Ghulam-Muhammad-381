@@ -10,10 +10,6 @@
 
 ## 🚀 About Me  
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ghulam-Muhammad-381/YOUR_REPO/main/assets/profile.png" alt="Ghulam Muhammad" width="300px"/>
-</p>
-
 - 🔥 **Full-Stack Developer & Web App Architect** with 6+ years of experience  
 - 💡 Passionate about **clean code, scalable solutions, and efficient workflows**  
 - 🛠 Expert in **PHP, Laravel, Vue.js, Flutter, WordPress, Livewire**  
@@ -58,13 +54,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Ghulam-Muhammad-381&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ghulam-Muhammad-381&theme=dark" alt="GitHub Streak" />
 </p>
-
----
-
-### **📣 Connect with Me**
-🌐 **Portfolio:** [codewithghulam.com](https://codewithghulam.com)  
-📷 **Instagram:** [@ghulam_boss](https://www.instagram.com/ghulam_boss/)  
-📘 **Facebook:** [Ghulam Muhammad](https://www.facebook.com/ghulam.muhammad.39589)  
 
 ---
 
