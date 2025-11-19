@@ -12,7 +12,7 @@
 
 - 🔥 **Full-Stack Developer & Web App Architect** with 6+ years of experience  
 - 💡 Passionate about **clean code, scalable solutions, and efficient workflows**  
-- 🛠 Expert in **PHP, Laravel, Vue.js, Flutter, WordPress, Livewire**  
+- 🛠 Expert in **PHP, Laravel, Node.js, React.js, Flutter, WordPress, Livewire**  
 - 🎯 Skilled in **Agile methodologies** using **Jira, Asana, Trello**  
 - 🚀 Always excited about **building from scratch, managing teams, and enhancing existing projects**  
 
